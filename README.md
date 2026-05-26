@@ -48,8 +48,13 @@ Both free and paid resources are included. Contributions welcome.
 ---
 
 ## Textbooks and Books
+> [!TIP]
+> Visit **[FreeMediaHeckYeah's Books Section ↗](https://fmhy.pages.dev/reading#ebooks)** for more free medical textbooks
 
+- **[🆓 Ocean of PDF](https://oceanofpdf.com/category/genres/medicine/)** - Free medical textbooks in PDF format
 - **[🆓 Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Books &  Video Courses
+- **[🆓 Free Medical Books](https://www.freebookcentre.net/medical_text_books_journals/medical_text_books_online.html)** - Index of free medical textbooks in PDF form
+- **[🆓 Openstax](https://openstax.org/subjects/science)** - Free medical books
 - **[🆓 NIH / NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/)** - Full-text searchable medical textbooks hosted by the NIH
 - **[🆓 NCBI StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK430685/)** - Comprehensive educational articles with practice questions
 - **[🆓 OpenStax](https://openstax.org/)** - Free peer-reviewed textbooks covering biology, anatomy, pharmacology, and more
