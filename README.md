@@ -40,8 +40,6 @@ Both free and paid resources are included. Contributions welcome.
 
 - **[🆓 LibreTexts Medicine](https://med.libretexts.org/)** - Open-source medical learning guides and textbooks
 - **[🆓 MedEdPORTAL](https://www.mededportal.org/)** - Free teaching materials including lecture notes, clinical cases, and quizzes from medical schools
-- **[🆓 HEAL - Health Education Assets Library](https://heal.lib.utah.edu/)** - 22,000+ freely available digital materials for health sciences education
-- **[🆓 FOAMed](https://www.foamed.org/)** - Free Open Access Medical Education - open, collaborative, constantly evolving resources
 - **[🆓 OpenMD Student Directory](https://openmd.com/directory/student)** - Directory of interactive learning tools and free medical textbooks
 - **[🆓 r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/index)** - Community-curated index of med school resources
 - **[💲 Medscape](https://www.medscape.com/)** - Medical news, drug references, and clinical guidelines
@@ -69,7 +67,7 @@ Both free and paid resources are included. Contributions welcome.
 ## Video Lectures
 
 - **[🆓 Khan Academy - Medicine](https://www.khanacademy.org/science/health-and-medicine)** - Physiology and pathology videos, good for building foundational knowledge
-- **[🆓 Ninja Nerd](https://www.youtube.com/@NinjaNerdScience)** - Whiteboard-style lectures on physiology, pathology, and pharmacology
+- **[🆓 Ninja Nerd](https://www.youtube.com/@NinjaNerdOfficial)** - Whiteboard-style lectures on physiology, pathology, and pharmacology
 - **[🆓 Osmosis YouTube](https://www.youtube.com/c/osmosis)** - Animated medical videos covering a wide range of topics
 - **[🆓 Armando Hasudungan](https://www.youtube.com/@armandohasudungan)** - Illustrated biology and medical science explanations
 - **[🆓 eLearning for Healthcare (e-LfH)](https://www.e-lfh.org.uk/)** - Interactive online learning for healthcare professionals
@@ -84,7 +82,6 @@ Both free and paid resources are included. Contributions welcome.
 - **[🆓 University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/)** - High-yield cadaveric dissection photos and anatomy guides
 - **[🆓 Inner Body](https://www.innerbody.com/)** - 2D and 3D anatomy atlas
 - **[🆓 NIH 3D Print Exchange](https://3d.nih.gov/)** - Biomedical science 3D models from the NIH
-- **[🆓 University of Minnesota Histology](https://histology.umn.edu/)** - Virtual microscope and histology learning guides
 - **[💲 Zygote Body](https://www.zygotebody.com/)** - Interactive 3D human anatomical models
 - **[💲 AnatomyLearning](https://anatomylearning.com/)** - 3D anatomy learning platform
 - **[💲 BioDigital Human](https://www.biodigital.com/)** - 3D anatomy and disease visualization tool
@@ -105,7 +102,7 @@ Both free and paid resources are included. Contributions welcome.
 
 - **[🆓 Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start)** - Pharmacology notes and quizzes
 - **[🆓 OpenStax Pharmacology](https://openstax.org/details/books/pharmacology)** - Peer-reviewed pharmacology textbook covering all major drug classes
-- **[🆓 MSF Essential Medicines](https://medicalguidelines.msf.org/en/viewport/EssMed/english/essential-medicines-42379088.html)** - Practical drug guide covering oral drugs, injectables, infusion fluids, and vaccines
+- **[🆓 MSF Essential Medicines](https://medicalguidelines.msf.org/en/viewport/EssDr/english/essential-drugs-16682376.html)** - Practical drug guide covering oral drugs, injectables, infusion fluids, and vaccines
 - **[🆓 Antibiotics Summary](https://www.bugsanddrugs.org/)** - Quick-reference charts for antibiotic spectrums and coverage
 - **[💰 Sketchy Medical](https://www.sketchy.com/)** - Visual mnemonic platform for pharmacology and microbiology
 
@@ -138,7 +135,6 @@ Both free and paid resources are included. Contributions welcome.
 
 - **[🆓 LITFL - ECG Library](https://litfl.com/ecg-library/)** - Large database of ECG examples with explanations
 - **[🆓 Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review)** - ECG interpretation guides and quizzes
-- **[🆓 The ECG Course](https://www.theecgcourse.com/)** - Full video course on ECG reading and interpretation
 
 ---
 
@@ -164,7 +160,6 @@ Both free and paid resources are included. Contributions welcome.
 
 ## Question Banks and Flashcards
 
-- **[🆓 Anki Decks - AnKing](https://www.ankingmed.com/)** - Comprehensive pre-made Anki deck for USMLE, trusted by thousands of students
 - **[🆓 r/medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/)** - Community for pre-made medical Anki decks including AnKing and Zanki
 - **[🆓 OpenMD Question Bank](https://openmd.com/)** - Free 1,000+ question bank with peer-reviewed concept articles
 - **[💲 Amboss](https://www.amboss.com/)** - Medical knowledge library and question bank for students and professionals
