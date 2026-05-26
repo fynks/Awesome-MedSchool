@@ -1,7 +1,6 @@
 # Awesome-MedSchool [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of the best medical school books, articles, tools, calculators, and courses.
-Both free and paid resources are included. Contributions welcome.
 
 > ⭐ Star this repo to help other med students find it.
 
