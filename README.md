@@ -49,6 +49,7 @@ Both free and paid resources are included. Contributions welcome.
 
 ## Textbooks and Books
 
+- **[🆓 Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Books &  Video Courses
 - **[🆓 NIH / NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/)** - Full-text searchable medical textbooks hosted by the NIH
 - **[🆓 NCBI StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK430685/)** - Comprehensive educational articles with practice questions
 - **[🆓 OpenStax](https://openstax.org/)** - Free peer-reviewed textbooks covering biology, anatomy, pharmacology, and more
